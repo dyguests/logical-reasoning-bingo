@@ -50,3 +50,4 @@
 - !Row3 : !E3
 - !Row4 : Row4->B4, !B4
 - !Row5 : Row5->A5, Row5->E5, A5->!E5
+- !C3 : 仅剩Row2和Col4, Row2->!C3, Col4->!C3
