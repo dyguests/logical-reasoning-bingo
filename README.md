@@ -48,3 +48,5 @@
 - !Col5 : !E3
 - !Row1 : Row1->E1, !E1
 - !Row3 : !E3
+- !Row4 : Row4->B4, !B4
+- !Row5 : Row5->A5, Row5->E5, A5->!E5
